@@ -1,1 +1,52 @@
-index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bereza Resume</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@400;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div id="main">
+        <div style="main">
+            <h1 class="head">Береза Андрій</h1>
+            <div class="techskills">
+                <h2>Tech Skills</h2>
+                <ul>
+                    <li>HTML5(базовый)</li>
+                    <li>CSS3(базовый)</li>
+                    <li>JS(поверхностный)</li>
+                </ul>
+            </div>
+            <div>
+                <h2>Soft Skills</h2>
+                <ul>
+                    <li>Умею работать в команде</li>
+                    <li>Ответственность</li>
+                    <li>Time-менеджмент</li>
+                    <li>Не конфликтный</li>
+                    <li>Рвение получать знания и обучаться самому</li>
+                </ul>
+            </div>
+            <div>
+                <h2>О себе</h2>
+                <p>Увлекаюсь компьютерными технологиями, иногда читаю, но предпочтительно научно-популярную литературу, всегда хотел быть программистом, но по молодости пошел не в тот ВУЗ, теперь стараюсь наверстать упущенное.</p>
+            </div>
+            <div>
+                <h2>Образование</h2>
+                <p>Полтавская государственная аграрная академия 2015-2019г.</p>
+            </div>
+            <div>
+                <h2>Contacts</h2>
+                <p><a href="+380688641653">+380688641653</a></p>
+                <p><a href="amba.vsegda@gmail.com">amba.vsegda@gmail.com</a></p>
+            </div>
+        </div>
+    </div>    
+
+    
+</body>
+</html>
